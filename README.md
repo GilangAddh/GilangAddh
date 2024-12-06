@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on PT Nusa Tekno Global<br>- 🌱 I’m currently learning Golang & Laravel<br>- 🏫 I’m fresh graduate from Jakarta State Polytechnic<br>- ✉️ Contact me at gilangadhiperkasa@gmail.com<br>
+ - 🌱 I’m currently learning Golang & Laravel<br>- 🏫 I’m fresh graduate from Jakarta State Polytechnic<br>- ✉️ Contact me at gilangadhiperkasa@gmail.com<br>
 
 
 ## 🌐 Socials:
